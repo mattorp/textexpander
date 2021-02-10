@@ -1,6 +1,6 @@
 # TextExpander
 
-Some of these might be useful to you or others, enjoy!
+Some of these might be useful to you.
 
 Use add group from file in TextExpander.
 
